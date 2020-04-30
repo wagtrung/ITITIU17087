@@ -621,8 +621,8 @@ transform: scale(1.2);
   cursor: pointer;
 }
 .awardBox:hover .ccc{
-    filter:blur(2px);
-transform: scale(1.2) rotate(4deg);
+    filter: brightness(0.30);
+transform: scale(1.2);
 }
 .blockk{
   position: relative;
