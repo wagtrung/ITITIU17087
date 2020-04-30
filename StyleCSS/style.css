@@ -611,6 +611,7 @@ transform: scale(1.2);
   display:flex;
 }
 .ccc{
+    filter: grayscale(100%);
   width:100%;
   transition: .6s ease-in-out;
   background-size:cover;
@@ -621,7 +622,7 @@ transform: scale(1.2);
   cursor: pointer;
 }
 .awardBox:hover .ccc{
-    filter: grayscale(100%);
+    filter: grayscale(0%);
 transform: scale(1.2);
 }
 .blockk{
