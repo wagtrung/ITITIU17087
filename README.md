@@ -3,4 +3,4 @@
 ==> https://wtcv.netlify.app/
 ==> https://wagtrung.github.io/ITITIU17087/
 ----------------------------------------------------
-<img src="https://wtcv.netlify.app/img/homepic.png" alt="Example2" style="max-width:100%;">
+<img src="https://wtcv.netlify.app/img/homepic.png" alt="Example2" style="max-width:60%;">
