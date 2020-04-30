@@ -612,7 +612,7 @@ transform: scale(1.2);
 }
 .ccc{
   width:100%;
-  transition: .4s ease-in-out;
+  transition: .6s ease-in-out;
   background-size:cover;
   background-position:center center;
   background-repeat:no-repeat;
@@ -621,7 +621,7 @@ transform: scale(1.2);
   cursor: pointer;
 }
 .awardBox:hover .ccc{
-transform: scale(1.1) rotate(-4deg);
+transform: scale(1.2) rotate(4deg);
 }
 .blockk{
   position: relative;
