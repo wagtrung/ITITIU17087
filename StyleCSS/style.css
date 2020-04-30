@@ -621,7 +621,7 @@ transform: scale(1.2);
   cursor: pointer;
 }
 .awardBox:hover .ccc{
-    filter: brightness(0.30);
+    filter: grayscale(100%);
 transform: scale(1.2);
 }
 .blockk{
