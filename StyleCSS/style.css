@@ -593,6 +593,7 @@ transform: scale(1.2);
 }
 
 .awardBox{
+        border: 2px solid transparent;
   margin: 40px 40px;
   overflow: hidden;
   height: 250px;
@@ -619,6 +620,7 @@ transform: scale(1.2);
   background-repeat:no-repeat;
 }
 .awardBox:hover{
+        border: 2px solid #b0d9f9;
   cursor: pointer;
 }
 .awardBox:hover .ccc{
