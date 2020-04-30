@@ -621,7 +621,7 @@ transform: scale(1.2);
   cursor: pointer;
 }
 .awardBox:hover .ccc{
-transform: scale(1.2) rotate(4deg);
+transform: scale(1.1) rotate(-4deg);
 }
 .blockk{
   position: relative;
