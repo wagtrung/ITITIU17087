@@ -2,8 +2,8 @@
 
 <b>Course: Web Application></b>
 <br><br>
-:muscle:
-[View the Site Here](https://wtcv.netlify.app/index.html)
+
+:point_right: [View the Site Here](https://wtcv.netlify.app/index.html) :star2: :star2: :star2:
 <br>
 This Static Site is the demand of question 2 in the Midterm Examination at IU-VNU-HCMC, 2020
 <br> Build 7 Pages HTML, and using external Style Sheet Cascading to style your page base on your creative mind...<br>
